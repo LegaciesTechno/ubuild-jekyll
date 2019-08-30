@@ -1,4 +1,13 @@
 ---
 label: Test
 hide_body: false
-fields: []
+fields:
+- name: test
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Test
