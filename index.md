@@ -22,7 +22,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2019/08/30/sunset-blurred-background-freebie.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
