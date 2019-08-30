@@ -6,15 +6,7 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2019/08/30/Original-size-Legacies-Tehno.png"
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: "#"
-    link_text: Features
-  - link: "#"
-    link_text: Pricing
-  - link: "#"
-    link_text: Team
+  navigation: []
   cta:
     url: ''
     button_text: Download
